@@ -4,6 +4,7 @@ Removes snapshots not attached to an AMI and before a certain date
 Requires boto3 and pytz.
 
 pip install boto3
+
 pip install pytz
 
 Configure IAM permissions for EC2 Snapshots either through
